@@ -1,0 +1,10 @@
+D:\progatprogatprogat\selen\selen\bin\Debug\selen.exe.config
+D:\progatprogatprogat\selen\selen\bin\Debug\selen.exe
+D:\progatprogatprogat\selen\selen\bin\Debug\selen.pdb
+D:\progatprogatprogat\selen\selen\bin\Debug\WebDriver.dll
+D:\progatprogatprogat\selen\selen\bin\Debug\WebDriver.xml
+D:\progatprogatprogat\selen\selen\obj\Debug\selen.csprojResolveAssemblyReference.cache
+D:\progatprogatprogat\selen\selen\obj\Debug\selen.exe
+D:\progatprogatprogat\selen\selen\obj\Debug\selen.pdb
+D:\progatprogatprogat\selen\selen\bin\Debug\WebDriver.Support.dll
+D:\progatprogatprogat\selen\selen\bin\Debug\WebDriver.Support.xml
